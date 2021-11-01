@@ -1,0 +1,11 @@
+#site-logo {
+    width:150px;
+}
+.carousel-item {
+
+}
+.carousel-item > img {
+    width: 80%;
+    margin: 0 auto;
+
+}
